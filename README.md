@@ -1,2 +1,2 @@
 # java
-This repository is code that I studied java.
+At Satit Prasarnmit Demonstration School.
